@@ -1,0 +1,20 @@
+#!/bin/bash
+
+NVDASHBOARD_PORT=$SLURM_STEP_RESV_PORTS
+IBEX_NODE=$(hostname -s)
+
+echo "
+To connect to the compute node ${IBEX_NODE} on Ibex running your NVDashboard server, 
+you need to create an ssh tunnel from your local machine to login node on Ibex 
+using the following command.
+
+ssh -L ${NVDASHBOARD_PORT}:${IBEX_NODE}:${NVDASHBOARD_PORT} ${USER}@glogin.ibex.kaust.edu.sa 
+
+Next, you need to copy the url provided below and paste it into the browser on your 
+local machine.
+
+http://127.0.0.1:${NVDASHBOARD_PORT}
+" >&2
+
+# Start the nvdashboard server
+python -m jupyterlab_nvdashboard.server $NVDASHBOARD_PORT
