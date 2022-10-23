@@ -31,7 +31,7 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 ### Day 2: [Introduction to Deep Learning, Part II](???)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on the theory behind CNNs for solving basic classification and regression problems by covering chapter 14 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
+* The morning session will focus on the theory behind CNNs by covering chapter 14 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
 ### Day 3: [Introduction to Deep Learning, Part III](???)
