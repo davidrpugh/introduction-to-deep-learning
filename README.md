@@ -23,18 +23,18 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 
 ## Lessons
 
-### Day 1: [Introduction to Deep Learning, Part I](???)
+### Day 1: [Introduction to Deep Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
 * The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering chapters 10-13 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and chapters 11-13 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
-### Day 2: [Introduction to Deep Learning, Part II](???)
+### Day 2: [Introduction to Deep Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETP5G7utx9BGpdHvi2OrkMgBAnYWKWbO1h0OumfEekymqg?e=ZciiYN)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on the theory behind CNNs by covering chapter 14 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
-### Day 3: [Introduction to Deep Learning, Part III](???)
+### Day 3: [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EQ-T0E5AcXJLsgYw0VPhomYBN4l1YLAc3hK0UXQUNZ4N9g?e=R5ZTCJ)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on the theory behind RNNs, including Attention and Transformers, by covering chapters 15-16 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
