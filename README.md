@@ -46,7 +46,7 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 * The morning session will focus on the theory behind various advanced topics such as Autoencoders, GANs, Diffusion Models, and GNNs, by covering chapters 17-18 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
-### Day 5: [Introduction to Machine Learning, Part V](???)
+### Day 5: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on various topics related to training and deploying PyTorch models as scale by covering chapter 19 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
