@@ -15,13 +15,15 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 * Custom Models and Training with PyTorch and Lightning 
 * Stratgeies for Loading and Preprocessing Data
 * Deep Computer Vision using Convolutional Neural Networks (CNNs)  
+* Autoencoders, Generative Adversarial Networks (GANs), and Diffusion Models
 * Processing Sequences using Recurrent Neural Networks (RNNs)
-* Natural Language Processing using Transformers 
-* Autoencoders, GANs, and Diffusion Models
+* Natural Language Processing using Attention and Transformers 
 * Graph Neural Networks (GNNs)
 * Training and Deploying PyTorch Models at Scale 
 
 ## Lessons
+
+The lessons are organizes into daily modules with the idea that they can taught somewhat independently to accommodate specific audiences. For example, a one-day "Intro to Deep Learning" course would consist of just the Day-1 material; a two-day "Intro to Deep Learning" course could cover material from Day-1 and Day-5. A two-day course with a focus on computer vision applications could consist of the Day-1 and Day-2 material; similarly, a two-day course with a focus on natural language processing or timeseries applications could consist of material from Day-1 and Day-3. A two-day, "Intro to Graph Neural Networks (GNNs)" could consist of material from Day-1 and Day-4. Other combinations are possible.
 
 ### Day 1: [Introduction to Deep Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
@@ -31,7 +33,7 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 ### Day 2: [Introduction to Deep Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETP5G7utx9BGpdHvi2OrkMgBAnYWKWbO1h0OumfEekymqg?e=ZciiYN)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on the theory behind CNNs by covering chapter 14 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
+* The morning session will focus on the theory behind Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), and Diffusion Models by covering chapters 14 and 17 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
 ### Day 3: [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EQ-T0E5AcXJLsgYw0VPhomYBN4l1YLAc3hK0UXQUNZ4N9g?e=R5ZTCJ)
@@ -43,10 +45,10 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 ### Day 4: [Introduction to Deep Learning, Part IV](???)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on the theory behind various advanced topics such as Autoencoders, GANs, Diffusion Models, and GNNs, by covering chapters 17-18 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
+* The morning session will focus on the theory behind Graph Neural Networks (GNNs), by covering chapter 18 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
-### Day 5: [Introduction to Machine Learning, Part V](???)
+### Day 5: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on various topics related to training and deploying PyTorch models as scale by covering chapter 19 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
