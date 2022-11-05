@@ -47,6 +47,7 @@ The lessons are organizes into daily modules with the idea that they can taught 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Introduction to Computer Vision with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) |
+| Introduction to Autoencoders with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) |
 
 ### Day 3: [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EQ-T0E5AcXJLsgYw0VPhomYBN4l1YLAc3hK0UXQUNZ4N9g?e=R5ZTCJ)
 
