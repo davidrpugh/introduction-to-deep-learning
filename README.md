@@ -44,6 +44,10 @@ The lessons are organizes into daily modules with the idea that they can taught 
 * The morning session will focus on the theory behind Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), and Diffusion Models by covering chapters 14 and 17 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Introduction to Computer Vision with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) |
+
 ### Day 3: [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EQ-T0E5AcXJLsgYw0VPhomYBN4l1YLAc3hK0UXQUNZ4N9g?e=R5ZTCJ)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
@@ -58,8 +62,8 @@ The lessons are organizes into daily modules with the idea that they can taught 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
-| Introduction to GNNs with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | 
-| Introduction to GNNs with PyTorch Geometric | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | 
+| Introduction to GNNs with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | 
+| Introduction to GNNs with PyTorch Geometric | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | 
 
 
 ### Day 5: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
