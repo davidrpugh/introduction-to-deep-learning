@@ -55,6 +55,10 @@ The lessons are organizes into daily modules with the idea that they can taught 
 * The morning session will focus on the theory behind RNNs, including Attention and Transformers, by covering chapters 15-16 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Univariate Time Series Forecasting with RNNs | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03a-forecasting-univariate-time-series-with-rnns.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03a-forecasting-univariate-time-series-with-rnns.ipynb) | 
+
 ### Day 4: [Introduction to Deep Learning, Part IV](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EZUsh7VkuIlIhfp0KmKA61EBnb6cLPlEoVsicJmkZNRr9w?e=J34Jrt)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
