@@ -58,6 +58,7 @@ The lessons are organizes into daily modules with the idea that they can taught 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Univariate Time Series Forecasting with RNNs | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03a-forecasting-univariate-time-series-with-rnns.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03a-forecasting-univariate-time-series-with-rnns.ipynb) | 
+| Multivariate Time Series Forecasting with RNNs | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03b-forecasting-multivariate-time-series-with-rnns.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/03b-forecasting-multivariate-time-series-with-rnns.ipynb) | 
 
 ### Day 4: [Introduction to Deep Learning, Part IV](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EZUsh7VkuIlIhfp0KmKA61EBnb6cLPlEoVsicJmkZNRr9w?e=J34Jrt)
 
