@@ -23,12 +23,21 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 
 ## Lessons
 
-The lessons are organizes into daily modules with the idea that they can taught somewhat independently to accommodate specific audiences. For example, a one-day "Intro to Deep Learning" course would consist of just the Day-1 material; a two-day "Intro to Deep Learning" course could cover material from Day-1 and Day-5. A two-day course with a focus on computer vision applications could consist of the Day-1 and Day-2 material; similarly, a two-day course with a focus on natural language processing or timeseries applications could consist of material from Day-1 and Day-3. A two-day, "Intro to Graph Neural Networks (GNNs)" could consist of material from Day-1 and Day-4. Other combinations are possible.
+The lessons are organizes into modules and sub-modules with the idea that they can taught somewhat independently to accommodate specific audiences. For example, a one-day "Intro to Deep Learning" course would consist of just the module 1, sub-module 1 material; a three-day "Intro to Deep Learning" course could cover all of module 1. A course with a focus on computer vision applications could consist of the modules 1 and 2 material; similarly, a course with a focus on natural language processing or timeseries applications could consist of material from modules 1 and 3. An "Intro to Graph Neural Networks (GNNs)" course could consist of material from modules 1 and 4. Other combinations are also possible.
 
 ### Module 1: [Introduction to Deep Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
+#### Days 1-2:
+
 * The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering chapters 10-13 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and chapters 11-13 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
+
+#### Day 3: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
+
+* Consolidation of previous days content via Q/A and live coding demonstrations.  
+* The morning session will focus on various topics related to training and deploying PyTorch models as scale by covering chapter 19 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
+* The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
+
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -70,13 +79,6 @@ The lessons are organizes into daily modules with the idea that they can taught 
 |--------------|:------------------------:|:------------------:|
 | Introduction to GNNs with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04a-intro-to-graph-neural-networks-with-pytorch.ipynb) | 
 | Introduction to GNNs with PyTorch Geometric | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/04b-intro-to-graph-neural-networks-with-pytorch-geometric.ipynb) | 
-
-
-### Module 5: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
-
-* Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on various topics related to training and deploying PyTorch models as scale by covering chapter 19 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
-* The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
 
 ## Assessment
 
