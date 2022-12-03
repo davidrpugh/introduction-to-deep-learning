@@ -25,17 +25,28 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 
 The lessons are organizes into modules and sub-modules with the idea that they can taught somewhat independently to accommodate specific audiences. For example, a one-day "Intro to Deep Learning" course would consist of just the module 1, day 1 material; a three-day "Intro to Deep Learning" course could cover all of module 1. A course with a focus on computer vision applications could consist of the modules 1 and 2 material; similarly, a course with a focus on natural language processing or timeseries applications could consist of material from modules 1 and 3. An "Intro to Graph Neural Networks (GNNs)" course could consist of material from modules 1 and 4. Other combinations are also possible.
 
-### Module 1
+### Module 1: Introduction to Deep Learning
 
-#### Day 1: [Introduction to Deep Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
+#### Day 1: [Introduction to Artificial Neural Networks (ANNs)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
 * The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering chapters 10-11 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and chapter 11 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
 
-#### Day 2: [Introduction to Deep Learning, Part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| First Steps with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01a-first-steps-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01a-first-steps-with-pytorch.ipynb) | 
+| Building Data Pipelines with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01b-building-data-pipelines-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01b-building-data-pipelines-in-pytorch.ipynb) | 
+| Building Neural Networks with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | 
+
+#### Day 2: [Training DNNs](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETdjTajuI7RKrCCgSh1MbHsBksnYByGf_R2HQsOQJ0NaiA?e=GULCJA)
 
 * The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering chapters 12-13 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and chapters 12-13 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
 * The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
+
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Deep Dive into PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01d-deep-dive-into-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01d-deep-dive-into-pytorch.ipynb) | 
+| Introduction to PyTorch Lightning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | 
 
 #### Day 3: [Introduction to Machine Learning, Part V](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWCoMoVwyt9BqT764ad7D18B2i30nZupAchw66REL_9h8g?e=gbsomr)
 
@@ -44,13 +55,7 @@ The lessons are organizes into modules and sub-modules with the idea that they c
 * The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
 
 
-| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
-|--------------|:------------------------:|:------------------:|
-| First Steps with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01a-first-steps-with-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01a-first-steps-with-pytorch.ipynb) | 
-| Building Data Pipelines with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01b-building-data-pipelines-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01b-building-data-pipelines-in-pytorch.ipynb) | 
-| Building Neural Networks with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | 
-| Deep Dive into PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01d-deep-dive-into-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01d-deep-dive-into-pytorch.ipynb) | 
-| Introduction to PyTorch Lightning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | 
+
 
 ### Module 2: [Introduction to Deep Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETP5G7utx9BGpdHvi2OrkMgBAnYWKWbO1h0OumfEekymqg?e=ZciiYN)
 
