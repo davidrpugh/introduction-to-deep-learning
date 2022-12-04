@@ -14,8 +14,6 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 * Training Deep Neural Networks (DNNs) 
 * Custom Models and Training with PyTorch and Lightning 
 * Stratgeies for Loading and Preprocessing Data
-* Deep Computer Vision using Convolutional Neural Networks (CNNs)  
-* Autoencoders, Generative Adversarial Networks (GANs), and Diffusion Models
 * Processing Sequences using Recurrent Neural Networks (RNNs)
 * Natural Language Processing using Attention and Transformers 
 * Graph Neural Networks (GNNs)
@@ -53,20 +51,6 @@ The lessons are organizes into modules and sub-modules with the idea that they c
 * Consolidation of previous days content via Q/A and live coding demonstrations.  
 * The morning session will focus on various topics related to training and deploying PyTorch models as scale by covering chapter 19 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). 
 * The afternoon session will allow time for a final assessment as well as additional time for learners to complete any of the previous assessments.
-
-
-
-
-### Module 2: [Introduction to Deep Learning, Part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ETP5G7utx9BGpdHvi2OrkMgBAnYWKWbO1h0OumfEekymqg?e=ZciiYN)
-
-* Consolidation of previous days content via Q/A and live coding demonstrations.  
-* The morning session will focus on the theory behind Convolutional Neural Networks (CNNs), Autoencoders, Generative Adversarial Networks (GANs), and Diffusion Models by covering chapters 14 and 17 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).    
-* The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
-
-| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
-|--------------|:------------------------:|:------------------:|
-| Introduction to Computer Vision with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02a-intro-to-computer-vision-with-pytorch-lightning.ipynb) |
-| Introduction to Autoencoders with PyTorch Lightning| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/02c-intro-to-autoencoders-with-pytorch-lightning.ipynb) |
 
 ### Module 3: [Introduction to Deep Learning, Part III](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EQ-T0E5AcXJLsgYw0VPhomYBN4l1YLAc3hK0UXQUNZ4N9g?e=R5ZTCJ)
 
