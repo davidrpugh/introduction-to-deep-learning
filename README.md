@@ -2,7 +2,7 @@
 
 # Introduction to Deep Learning
 
-There is strong demand for machine learning (DL) skills and expertise to solve challenging business problems both globally and locally in KSA. This course will help learners build capacity in core DL tools and methods and enable them to develop their own deep learning applications. This course covers the basic theory behind DL algorithms but the majority of the focus is on hands-on examples using [PyTorch](https://pytorch.org/).
+There is strong demand for deep learning skills and expertise to solve challenging business problems both globally and locally in KSA. This course will help learners build capacity in core DL tools and methods and enable them to develop their own deep learning applications. This course covers the basic theory behind DL algorithms but the majority of the focus is on hands-on examples using [PyTorch](https://pytorch.org/).
 
 ## Learning Objectives
 
@@ -16,9 +16,21 @@ This course covers portions of chapters 10-19 of [Hands-on Machine Learning with
 * Stratgeies for Loading and Preprocessing Data
 * Training and Deploying PyTorch Models at Scale 
 
-## Lessons
+## Lectures
 
-The lessons are organizes into modules and sub-modules with the idea that they can taught somewhat independently to accommodate specific audiences.
+### Lecture 1: An Overview of the Machine Learning Landscape [(Slides)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWo8HoVvDINJoDmQZzRbdeMBufZ5m-SRGOBejuSrRFv5wQ?e=FgNYxo)
+
+The initial lecture provides a high-level overview of the machine learning landscape and addresses the following questions.  
+ 
+* What is ML? 
+* Why use ML? 
+* What are the several types of ML systems? 
+* What are some of the main challenges of applying ML in practice? 
+ 
+**Suggested reading:**
+ 
+* Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+* Chapter 1 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 ### Module 1: [Introduction to Deep Learning](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
