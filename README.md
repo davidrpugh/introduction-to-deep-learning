@@ -32,10 +32,14 @@ The initial lecture provides a high-level overview of the machine learning lands
 * Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 1 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
-### Module 1: [Introduction to Deep Learning](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
+### Lecture 2: An Introduction to Deep Learning [(Slides)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfRHWqkIFjpBk9j8aL4I3fABUngt5d3uccvxjDuuurtYfA?e=ffNqUj)
 
-* The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering relevant portions of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
-* The afternoon session will focus on applying the techniques learned in the morning session using [PyTorch](https://pytorch.org/), followed by a short assessment on the Kaggle data science competition platform.
+TBD
+
+**Suggested reading:**
+
+* Chapter 10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+* Chapter 11 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -44,8 +48,22 @@ The initial lecture provides a high-level overview of the machine learning lands
 | Building Neural Networks with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | 
 | Introduction to PyTorch Lightning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | 
 
+### Lecture 3: Training Neural Networks, Part I: Stochastic Gradient Descent [(Slides)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ESk6HlHXmytAipnVVIeTCtsBnEVZLQeF4KNpE7A49GZCcA?e=VteHn9)
 
-### Module 2: [Training DNNs](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeA0M9ydAEVGmfAWZhzVDEwBWtnOVos3YroubDAkfswWoQ?e=ryFLJy)
+TBD
+
+**Suggested reading:**
+
+* Chapter 4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
+* Chapter ? of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
+
+| **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
+|--------------|:------------------------:|:------------------:|
+| Building Neural Networks with PyTorch | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/notebooks/01c-building-neural-networks-in-pytorch.ipynb) | 
+| Introduction to PyTorch Lightning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/KAUST-Academy/introduction-to-deep-learning/blob/master/notebooks/01e-introduction-to-pytorch-lightning.ipynb)
+
+
+### Lecture 4: Training Neural Networks, Part II [(Slides)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EeA0M9ydAEVGmfAWZhzVDEwBWtnOVos3YroubDAkfswWoQ?e=ryFLJy)
 
 * Consolidation of previous days content via Q/A and live coding demonstrations.
 * The morning session will focus on the theory behind neural networks for solving both classification and regression problems by covering chapters 12-13 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) and chapters 12-13 of [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312).  
